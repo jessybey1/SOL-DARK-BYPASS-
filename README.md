@@ -1,4 +1,4 @@
-# 🛡️ SOLIDARK BYPASS (v1.6)
+# 🛡️ SOLIDARK BYPASS
 
 [![Python](https://img.shields.io/badge/Python-3.13%20%7C%203.14-red.svg?style=flat-square&logo=python)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078d7.svg?style=flat-square&logo=windows)](https://microsoft.com)
